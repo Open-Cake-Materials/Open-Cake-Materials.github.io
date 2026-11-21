@@ -1,4 +1,5 @@
-# https://open-cake-materials.github.io
+# Open-Cake-Materials.github.io
+https://open-cake-materials.github.io/
 Website for our free materials library.
 
 ## License
