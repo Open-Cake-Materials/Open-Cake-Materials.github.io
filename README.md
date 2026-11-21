@@ -1,5 +1,5 @@
 # Open-Cake-Materials.github.io
-Website for our free materials libray.
+Website for our free materials library.
 
 ## License
 - **Website code (HTML, CSS, JavaScript):** Licensed under the [MIT License](LICENSE).
