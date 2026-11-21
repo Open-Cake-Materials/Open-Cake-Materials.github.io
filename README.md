@@ -1,2 +1,6 @@
 # Open-Cake-Materials.github.io
 Website for our free materials libray.
+
+## License
+- **Website code (HTML, CSS, JavaScript):** Licensed under the [MIT License](LICENSE).
+- **Font (JetBrains Mono):** Licensed under the [SIL Open Font License, Version 1.1](OFL.txt) (copyright by JetBrains).
