@@ -1,4 +1,4 @@
-# <a href="https://open-cake-materials.github.io/>"Open-Cake-Materials.github.io</a>
+# https://open-cake-materials.github.io
 Website for our free materials library.
 
 ## License
